@@ -2,7 +2,7 @@ import scrapy
 import json
 
 def linkGenerator(self):
-        # Credit for this information and links go to Fextralife and his very detailed information about all the monsters
+        # Credit for this information and links go to Fextralife's and his community's very detailed information about all the monsters
         baseUrl = 'https://monsterhunterrise.wiki.fextralife.com/'
         monsters = ['Bishaten', 'Great+Wroggi','Magnamalo','Royal+Ludroth',
                    'Somnacanth','Goss+Harag','Lagombi','Khezu',
